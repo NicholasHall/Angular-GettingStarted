@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+//test
+
 @Component({
     templateUrl: './welcome.component.html'
 })
